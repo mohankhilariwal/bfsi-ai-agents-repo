@@ -1,0 +1,8 @@
+streamlit
+pandas
+scikit-learn==1.5.1
+langchain
+langchain-openai
+openai
+llama-index
+python-dotenv
